@@ -1,0 +1,1 @@
+function fn(n,o){return n.style.background}fn(document.body);
